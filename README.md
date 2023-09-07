@@ -1,24 +1,32 @@
-# README
+# わんショット
+​
+## サイト概要
+### サイトテーマ
+​犬を飼っている人が愛犬のかわいい様子を写真で投稿し、犬が好きな人が他人の投稿をみていいねをしたりコメントをしたりできるSNS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### テーマを選んだ理由
+もともと犬が好きで、犬を飼っている人は自分も含めて自分の愛犬の可愛さなどを共有したいと思っている人は多いと思っています。
+また、犬を飼っていない（飼えない）人でも犬のかわいい様子を見たいというニーズもすでにあるためこのテーマにしました。
+​
+### ターゲットユーザ
+- 犬が好きな人
+- 犬を飼っており、自分の愛犬の可愛さを共有したいと考えている人
+- 犬を飼っている人はもちろん、犬を飼ってなくても他人の愛犬のかわいいところが見たいと考えている人
 
-Things you may want to cover:
+### 主な利用シーン
+- 犬のかわいい写真が撮れたとき
+- 犬と過ごしている様子を写真と一緒に日記のように記録しておきたいとき
+- 様々な犬のかわいい様子を見たいと感じたとき
 
-* Ruby version
+## 設計書
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+​
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
+​
+## 使用素材
+使用する可能性あり
