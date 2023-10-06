@@ -19,6 +19,12 @@ class PostController < ApplicationController
     @post = Post.find(params[:id])
   end
   
+  def destroy
+    post = Post.find(params[:id])
+    post.destroy
+    redirect_to post_index_path
+  end
+  
   # 投稿データのストロングパラメータ
   private
 
